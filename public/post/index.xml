@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WFH day</title>
+    <link>http://wfh.day/post/</link>
+    <description>Recent content in Posts on WFH day</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 18:48:38 -0400</lastBuildDate>
+    
+	<atom:link href="http://wfh.day/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://wfh.day/posts/my-first-post/</link>
+      <pubDate>Wed, 11 May 2022 18:48:38 -0400</pubDate>
+      
+      <guid>http://wfh.day/posts/my-first-post/</guid>
+      <description>My first post to checkout the theme and setup!</description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>http://wfh.day/post/2017/01/01/test/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://wfh.day/post/2017/01/01/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+ Below you will find some of the most common and helpful pages from our documentation.
+ https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>http://wfh.day/post/2016/01/01/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wfh.day/post/2016/01/01/test/</guid>
+      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>

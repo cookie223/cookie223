@@ -1,0 +1,28 @@
+baseURL = "http://wfh.day/"
+languageCode = "en-us"
+title = "WFH day"
+theme = "air"
+
+[author]
+  name = "Qi"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = "This is my website for something"
+  cover = "images/20220426_192431.jpg"
+  author = "Qi"
+  authorlocation = "NYC"
+  authorwebsite = "https://syui.cf/hugo-theme-air"
+  bio= "my bio"
+  logo = "images/20220426_192431.jpg"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = ""
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
+
